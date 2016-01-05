@@ -20,3 +20,8 @@ h1 {
 .UploadContainer p input{
 	font-size: 30px;
 }
+
+.filter-canvas {
+	margin-left: auto;
+  margin-right: auto;
+}

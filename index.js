@@ -6,7 +6,7 @@
 	var canvas = document.getElementById("FilterCanvas");
 	var context = canvas.getContext("2d");
 	canvas.style.display = 'none';
-
+	
 (function(view) {
 		var document = view.document;
 		var session = view.sessionStorage;
@@ -108,7 +108,7 @@
 			console.log(canvas)
 
 			var canvas_filename = {
-				value: "unavsa_filter"
+				value: "unavsa_image"
 			}
 
 			canvas.toBlob(function(blob) {
