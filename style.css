@@ -1,0 +1,22 @@
+body {
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+	font-size: 50px;
+	display: inline-block;
+}
+
+.logo {
+	margin-top: 10px;
+	display: inline-block;
+}
+
+.example-img {
+	width: 500px;
+}
+
+.UploadContainer p input{
+	font-size: 30px;
+}
