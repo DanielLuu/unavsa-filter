@@ -84,6 +84,7 @@
         }
 
 				unavsaImage = new Image();
+				unavsaImage.setAttribute('crossOrigin', 'anonymous');
 				unavsaImage.src = './unavsa.png' ;
 				unavsaImage.onload = function() {
 					context.globalAlpha = 1
