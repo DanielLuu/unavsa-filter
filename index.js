@@ -30,7 +30,7 @@
 			state.className = 'fail';
 		} else {
 			state.className = 'success';
-			state.innerHTML = 'Convert Your Profile Photo:';
+			state.innerHTML = 'Filter Your Photo:';
 		}
 		 
 		upload.onchange = function (e) {
